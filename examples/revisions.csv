@@ -1,0 +1,6 @@
+event_id,sku,delta,effective_at,recorded_at,status
+e1,apple,3,2026-01-01T08:00:00Z,2026-01-01T08:30:00Z,posted
+e2,orange,-4,2026-01-01T09:00:00Z,2026-01-01T09:30:00Z,posted
+e2,orange,-4,2026-01-01T09:00:00Z,2026-01-01T10:30:00Z,void
+e3,apple,10,2026-01-01T13:00:00Z,2026-01-01T11:00:00Z,posted
+e4,orange,-2,2026-01-01T09:00:00Z,2026-01-01T14:00:00Z,posted
